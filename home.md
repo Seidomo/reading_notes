@@ -1,7 +1,7 @@
 
 # READING NOTES
 
-
+- [**HOME**](https://seidomo.github.io/reading_notes/home)
 
 
 - [**Code 102 - Intro to Software Development**](https://seidomo.github.io/reading-notes/)
